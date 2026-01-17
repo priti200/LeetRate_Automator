@@ -1,0 +1,7490 @@
+[
+  {
+    "timestamp": "2026-01-11T13:48:54.269767",
+    "data": []
+  },
+  {
+    "timestamp": "2026-01-11T13:49:51.933579",
+    "data": []
+  },
+  {
+    "timestamp": "2026-01-11T13:57:05.832713",
+    "data": [
+      {
+        "username": "neal_wu",
+        "rating": 3686,
+        "global_rank": 2,
+        "attended": 51,
+        "top_percentage": 0.01,
+        "success": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-11T13:58:42.688948",
+    "data": [
+      {
+        "username": "neal_wu",
+        "rating": 3686,
+        "global_rank": 2,
+        "attended": 51,
+        "top_percentage": 0.01,
+        "success": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-11T14:00:51.133409",
+    "data": [
+      {
+        "username": "neal_wu",
+        "rating": 3686,
+        "global_rank": 2,
+        "attended": 51,
+        "top_percentage": 0.01,
+        "success": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-11T14:05:51.851024",
+    "data": [
+      {
+        "username": "avatar156",
+        "rating": 2182,
+        "global_rank": 7711,
+        "attended": 2,
+        "top_percentage": 1.0,
+        "success": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-11T14:06:44.592027",
+    "data": [
+      {
+        "username": "eyempriti",
+        "rating": 1450,
+        "global_rank": 502320,
+        "attended": 4,
+        "top_percentage": 62.52,
+        "success": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-11T14:19:16.702538",
+    "data": [
+      {
+        "username": "avatar156",
+        "rating": 2182,
+        "global_rank": 7711,
+        "attended": 2,
+        "top_percentage": 1.0,
+        "success": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-15T17:24:40.432167",
+    "data": [
+      {
+        "username": "49",
+        "rating": 1523,
+        "global_rank": 300772,
+        "attended": 6,
+        "top_percentage": 37.46,
+        "success": true
+      },
+      {
+        "username": "ID",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "1",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "2",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "3",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "4",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "5",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "6",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "7",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "8",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "9",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "10",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "11",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "12",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "13",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "14",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "15",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "16",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "17",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "18",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "19",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "20",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "21",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "22",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "23",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "24",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "25",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "26",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "27",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "28",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "29",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "30",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "31",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "32",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "33",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "34",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "35",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "36",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "37",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "38",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "39",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "40",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "41",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "42",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "43",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "44",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "45",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "46",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "47",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "48",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "50",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "51",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "52",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "53",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "54",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "55",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "56",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "57",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "58",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "59",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "60",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "61",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "62",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "63",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "64",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "65",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "66",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "67",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "68",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "69",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "70",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "71",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "72",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "73",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "74",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "75",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "76",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "77",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "78",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "79",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "80",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "81",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "82",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "83",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "84",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "85",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "86",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-15T17:28:00.715306",
+    "data": [
+      {
+        "username": "49",
+        "rating": 1523,
+        "global_rank": 300772,
+        "attended": 6,
+        "top_percentage": 37.46,
+        "success": true
+      },
+      {
+        "username": "ID",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "1",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "2",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "3",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "4",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "5",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "6",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "7",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "8",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "9",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "10",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "11",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "12",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "13",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "14",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "15",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "16",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "17",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "18",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "19",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "20",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "21",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "22",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "23",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "24",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "25",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "26",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "27",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "28",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "29",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "30",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "31",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "32",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "33",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "34",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "35",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "36",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "37",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "38",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "39",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "40",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "41",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "42",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "43",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "44",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "45",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "46",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "47",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "48",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "50",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "51",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "52",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "53",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "54",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "55",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "56",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "57",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "58",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "59",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "60",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "61",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "62",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "63",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "64",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "65",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "66",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "67",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "68",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "69",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "70",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "71",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "72",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "73",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "74",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "75",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "76",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "77",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "78",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "79",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "80",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "81",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "82",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "83",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "84",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "85",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "86",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-15T23:24:03.306591",
+    "data": [
+      {
+        "username": "49",
+        "rating": 1523,
+        "global_rank": 300772,
+        "attended": 6,
+        "top_percentage": 37.46,
+        "success": true
+      },
+      {
+        "username": "4",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "5",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "2",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "6",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "ID",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "9",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "8",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "1",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "3",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "7",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "11",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "10",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "13",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "12",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "14",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "15",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "16",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "17",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "18",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "19",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "22",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "20",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "23",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "21",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "24",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "25",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "26",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "28",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "27",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "29",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "30",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "32",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "31",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "37",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "34",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "36",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "35",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "39",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "33",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "38",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "40",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "41",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "44",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "43",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "42",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "47",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "45",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "46",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "48",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "50",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "51",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-16T12:40:38.344972",
+    "data": [
+      {
+        "username": "U4AIE23111",
+        "rating": 1754,
+        "global_rank": 76608,
+        "attended": 1,
+        "top_percentage": 9.67,
+        "success": true
+      },
+      {
+        "username": "gqiZ1OeDkF",
+        "rating": 1696,
+        "global_rank": 105948,
+        "attended": 8,
+        "top_percentage": 13.32,
+        "success": true
+      },
+      {
+        "username": "Adithya_Varma",
+        "rating": 1642,
+        "global_rank": 143999,
+        "attended": 6,
+        "top_percentage": 18.05,
+        "success": true
+      },
+      {
+        "username": "Dhanusrireddy",
+        "rating": 1635,
+        "global_rank": 150365,
+        "attended": 5,
+        "top_percentage": 18.84,
+        "success": true
+      },
+      {
+        "username": "L11C1F3R",
+        "rating": 1634,
+        "global_rank": 151114,
+        "attended": 10,
+        "top_percentage": 18.94,
+        "success": true
+      },
+      {
+        "username": "PRANAV2005ola",
+        "rating": 1626,
+        "global_rank": 158145,
+        "attended": 7,
+        "top_percentage": 19.81,
+        "success": true
+      },
+      {
+        "username": "U4AIE23131",
+        "rating": 1624,
+        "global_rank": 160591,
+        "attended": 1,
+        "top_percentage": 20.11,
+        "success": true
+      },
+      {
+        "username": "vighneshb04",
+        "rating": 1584,
+        "global_rank": 204323,
+        "attended": 4,
+        "top_percentage": 25.53,
+        "success": true
+      },
+      {
+        "username": "U4AIE23063",
+        "rating": 1578,
+        "global_rank": 211643,
+        "attended": 2,
+        "top_percentage": 26.44,
+        "success": true
+      },
+      {
+        "username": "Aadarsh_P_P",
+        "rating": 1555,
+        "global_rank": 245354,
+        "attended": 14,
+        "top_percentage": 30.61,
+        "success": true
+      },
+      {
+        "username": "advythvaman06",
+        "rating": 1551,
+        "global_rank": 251762,
+        "attended": 1,
+        "top_percentage": 31.4,
+        "success": true
+      },
+      {
+        "username": "Rakshann",
+        "rating": 1550,
+        "global_rank": 253310,
+        "attended": 9,
+        "top_percentage": 31.6,
+        "success": true
+      },
+      {
+        "username": "saisamay086",
+        "rating": 1547,
+        "global_rank": 257423,
+        "attended": 9,
+        "top_percentage": 32.11,
+        "success": true
+      },
+      {
+        "username": "marvelpokemaster",
+        "rating": 1534,
+        "global_rank": 280278,
+        "attended": 9,
+        "top_percentage": 34.93,
+        "success": true
+      },
+      {
+        "username": "sujith_matam",
+        "rating": 1529,
+        "global_rank": 290453,
+        "attended": 9,
+        "top_percentage": 36.19,
+        "success": true
+      },
+      {
+        "username": "Yadhu_Vipin",
+        "rating": 1525,
+        "global_rank": 297646,
+        "attended": 8,
+        "top_percentage": 37.08,
+        "success": true
+      },
+      {
+        "username": "SREYAS_S_SANKAR",
+        "rating": 1517,
+        "global_rank": 314656,
+        "attended": 11,
+        "top_percentage": 39.18,
+        "success": true
+      },
+      {
+        "username": "heshaja_23265",
+        "rating": 1512,
+        "global_rank": 324844,
+        "attended": 8,
+        "top_percentage": 40.43,
+        "success": true
+      },
+      {
+        "username": "sathvik9105",
+        "rating": 1508,
+        "global_rank": 333271,
+        "attended": 9,
+        "top_percentage": 41.47,
+        "success": true
+      },
+      {
+        "username": "bhaskaraveerendranadh",
+        "rating": 1493,
+        "global_rank": 371991,
+        "attended": 11,
+        "top_percentage": 46.24,
+        "success": true
+      },
+      {
+        "username": "Sailesh23271",
+        "rating": 1492,
+        "global_rank": 374041,
+        "attended": 9,
+        "top_percentage": 46.49,
+        "success": true
+      },
+      {
+        "username": "haripriyar1601",
+        "rating": 1492,
+        "global_rank": 374737,
+        "attended": 1,
+        "top_percentage": 46.58,
+        "success": true
+      },
+      {
+        "username": "U4AIE23140",
+        "rating": 1492,
+        "global_rank": 372648,
+        "attended": 1,
+        "top_percentage": 46.32,
+        "success": true
+      },
+      {
+        "username": "U4AIE23061",
+        "rating": 1490,
+        "global_rank": 379874,
+        "attended": 1,
+        "top_percentage": 47.21,
+        "success": true
+      },
+      {
+        "username": "Sanithya_23327",
+        "rating": 1490,
+        "global_rank": 379801,
+        "attended": 9,
+        "top_percentage": 47.2,
+        "success": true
+      },
+      {
+        "username": "pooja_23242",
+        "rating": 1484,
+        "global_rank": 395989,
+        "attended": 8,
+        "top_percentage": 49.19,
+        "success": true
+      },
+      {
+        "username": "Reshma2612",
+        "rating": 1483,
+        "global_rank": 399215,
+        "attended": 8,
+        "top_percentage": 49.59,
+        "success": true
+      },
+      {
+        "username": "sheron-59",
+        "rating": 1483,
+        "global_rank": 398046,
+        "attended": 1,
+        "top_percentage": 49.45,
+        "success": true
+      },
+      {
+        "username": "SreehariM",
+        "rating": 1482,
+        "global_rank": 401278,
+        "attended": 11,
+        "top_percentage": 49.84,
+        "success": true
+      },
+      {
+        "username": "nakulvs",
+        "rating": 1470,
+        "global_rank": 435660,
+        "attended": 1,
+        "top_percentage": 54.07,
+        "success": true
+      },
+      {
+        "username": "arjunrajesh59",
+        "rating": 1469,
+        "global_rank": 438840,
+        "attended": 10,
+        "top_percentage": 54.46,
+        "success": true
+      },
+      {
+        "username": "ardrama",
+        "rating": 1463,
+        "global_rank": 459581,
+        "attended": 1,
+        "top_percentage": 57.0,
+        "success": true
+      },
+      {
+        "username": "manogna_chowdary",
+        "rating": 1463,
+        "global_rank": 458201,
+        "attended": 8,
+        "top_percentage": 56.83,
+        "success": true
+      },
+      {
+        "username": "meghna2049",
+        "rating": 1459,
+        "global_rank": 473540,
+        "attended": 8,
+        "top_percentage": 58.71,
+        "success": true
+      },
+      {
+        "username": "darkkieee",
+        "rating": 1455,
+        "global_rank": 487369,
+        "attended": 4,
+        "top_percentage": 60.4,
+        "success": true
+      },
+      {
+        "username": "Tejaswini_64",
+        "rating": 1454,
+        "global_rank": 488610,
+        "attended": 8,
+        "top_percentage": 60.55,
+        "success": true
+      },
+      {
+        "username": "MeghaPrasanth",
+        "rating": 1448,
+        "global_rank": 510788,
+        "attended": 10,
+        "top_percentage": 63.26,
+        "success": true
+      },
+      {
+        "username": "atharvanair04",
+        "rating": 1439,
+        "global_rank": 544218,
+        "attended": 10,
+        "top_percentage": 67.35,
+        "success": true
+      },
+      {
+        "username": "Kartheek_mudi",
+        "rating": 1437,
+        "global_rank": 549504,
+        "attended": 12,
+        "top_percentage": 67.99,
+        "success": true
+      },
+      {
+        "username": "jenicabsarasam",
+        "rating": 1437,
+        "global_rank": 547897,
+        "attended": 13,
+        "top_percentage": 67.8,
+        "success": true
+      },
+      {
+        "username": "Samridhi23251",
+        "rating": 1433,
+        "global_rank": 563882,
+        "attended": 1,
+        "top_percentage": 69.75,
+        "success": true
+      },
+      {
+        "username": "Saiprasadreddy-27",
+        "rating": 1432,
+        "global_rank": 565646,
+        "attended": 10,
+        "top_percentage": 69.96,
+        "success": true
+      },
+      {
+        "username": "Tanmay_AMSCU4CSE23223",
+        "rating": 1423,
+        "global_rank": 593251,
+        "attended": 29,
+        "top_percentage": 73.33,
+        "success": true
+      },
+      {
+        "username": "7-Pavan-7",
+        "rating": 1414,
+        "global_rank": 633111,
+        "attended": 1,
+        "top_percentage": 78.27,
+        "success": true
+      },
+      {
+        "username": "AyyappaReddy_L",
+        "rating": 1414,
+        "global_rank": 633199,
+        "attended": 1,
+        "top_percentage": 78.27,
+        "success": true
+      },
+      {
+        "username": "SRSK2718",
+        "rating": 1414,
+        "global_rank": 633491,
+        "attended": 1,
+        "top_percentage": 78.27,
+        "success": true
+      },
+      {
+        "username": "123xoxo",
+        "rating": 1414,
+        "global_rank": 633526,
+        "attended": 1,
+        "top_percentage": 78.27,
+        "success": true
+      },
+      {
+        "username": "therahu1rajan",
+        "rating": 1414,
+        "global_rank": 627549,
+        "attended": 4,
+        "top_percentage": 77.53,
+        "success": true
+      },
+      {
+        "username": "revathivinod",
+        "rating": 1410,
+        "global_rank": 673403,
+        "attended": 1,
+        "top_percentage": 83.06,
+        "success": true
+      },
+      {
+        "username": "pavithranair1616",
+        "rating": 1410,
+        "global_rank": 673406,
+        "attended": 1,
+        "top_percentage": 83.06,
+        "success": true
+      },
+      {
+        "username": "davidshibu5",
+        "rating": 1405,
+        "global_rank": 686855,
+        "attended": 17,
+        "top_percentage": 84.69,
+        "success": true
+      },
+      {
+        "username": "adarshs05",
+        "rating": 1403,
+        "global_rank": 689544,
+        "attended": 11,
+        "top_percentage": 85.02,
+        "success": true
+      },
+      {
+        "username": "Atmakrishna_K_Raghavan",
+        "rating": 1401,
+        "global_rank": 692698,
+        "attended": 12,
+        "top_percentage": 85.4,
+        "success": true
+      },
+      {
+        "username": "nbharathvl9",
+        "rating": 1398,
+        "global_rank": 697285,
+        "attended": 2,
+        "top_percentage": 85.96,
+        "success": true
+      },
+      {
+        "username": "sai_charan_gontla",
+        "rating": 1397,
+        "global_rank": 699895,
+        "attended": 9,
+        "top_percentage": 86.28,
+        "success": true
+      },
+      {
+        "username": "akdswordguy",
+        "rating": 1390,
+        "global_rank": 709528,
+        "attended": 11,
+        "top_percentage": 87.45,
+        "success": true
+      },
+      {
+        "username": "Rishika_Prabhu",
+        "rating": 1390,
+        "global_rank": 709567,
+        "attended": 12,
+        "top_percentage": 87.46,
+        "success": true
+      },
+      {
+        "username": "NVenkateswaraRao",
+        "rating": 1389,
+        "global_rank": 711566,
+        "attended": 12,
+        "top_percentage": 87.7,
+        "success": true
+      },
+      {
+        "username": "Swami_007",
+        "rating": 1384,
+        "global_rank": 717712,
+        "attended": 3,
+        "top_percentage": 88.45,
+        "success": true
+      },
+      {
+        "username": "teja_bulusu",
+        "rating": 1383,
+        "global_rank": 719592,
+        "attended": 8,
+        "top_percentage": 88.68,
+        "success": true
+      },
+      {
+        "username": "Meenakshimanoj123",
+        "rating": 1382,
+        "global_rank": 721754,
+        "attended": 9,
+        "top_percentage": 88.94,
+        "success": true
+      },
+      {
+        "username": "a_bhi_9",
+        "rating": 1378,
+        "global_rank": 726537,
+        "attended": 23,
+        "top_percentage": 89.52,
+        "success": true
+      },
+      {
+        "username": "neemavinod",
+        "rating": 1375,
+        "global_rank": 730035,
+        "attended": 12,
+        "top_percentage": 89.95,
+        "success": true
+      },
+      {
+        "username": "SK005",
+        "rating": 1373,
+        "global_rank": 733738,
+        "attended": 13,
+        "top_percentage": 90.39,
+        "success": true
+      },
+      {
+        "username": "Vani-Sugovind-S-R",
+        "rating": 1371,
+        "global_rank": 736229,
+        "attended": 16,
+        "top_percentage": 90.7,
+        "success": true
+      },
+      {
+        "username": "RUSHIKESH_AM_SC_U4CSE23241",
+        "rating": 1355,
+        "global_rank": 754983,
+        "attended": 19,
+        "top_percentage": 92.97,
+        "success": true
+      },
+      {
+        "username": "ravindrenshivanand",
+        "rating": 1351,
+        "global_rank": 760050,
+        "attended": 13,
+        "top_percentage": 93.58,
+        "success": true
+      },
+      {
+        "username": "vasudev25",
+        "rating": 1346,
+        "global_rank": 765144,
+        "attended": 10,
+        "top_percentage": 94.2,
+        "success": true
+      },
+      {
+        "username": "Atif717",
+        "rating": 1338,
+        "global_rank": 771006,
+        "attended": 13,
+        "top_percentage": 94.91,
+        "success": true
+      },
+      {
+        "username": "Sra_aN",
+        "rating": 1328,
+        "global_rank": 776963,
+        "attended": 4,
+        "top_percentage": 95.63,
+        "success": true
+      },
+      {
+        "username": "JACOB_ISAAC",
+        "rating": 1259,
+        "global_rank": 801455,
+        "attended": 13,
+        "top_percentage": 98.6,
+        "success": true
+      },
+      {
+        "username": "chaos4peace",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "Kurt_Sony",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "hridesh_mg",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23146",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "riduvarshini_rs",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23051",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "qs3hMvuAFD",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "AbhijithKrish",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23047",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23038",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23107",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23005",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "jaifin777",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-16T13:18:03.180977",
+    "data": [
+      {
+        "username": "SREEVISAKH_A",
+        "rating": 1659,
+        "global_rank": 130520,
+        "attended": 7,
+        "top_percentage": 16.38,
+        "success": true
+      },
+      {
+        "username": "U4AIE23135",
+        "rating": 1625,
+        "global_rank": 159382,
+        "attended": 2,
+        "top_percentage": 19.96,
+        "success": true
+      },
+      {
+        "username": "Sai_Tharun29",
+        "rating": 1586,
+        "global_rank": 200972,
+        "attended": 6,
+        "top_percentage": 25.12,
+        "success": true
+      },
+      {
+        "username": "MSR_2005",
+        "rating": 1564,
+        "global_rank": 230882,
+        "attended": 8,
+        "top_percentage": 28.83,
+        "success": true
+      },
+      {
+        "username": "raghushubi",
+        "rating": 1547,
+        "global_rank": 257486,
+        "attended": 9,
+        "top_percentage": 32.11,
+        "success": true
+      },
+      {
+        "username": "parvathyv",
+        "rating": 1546,
+        "global_rank": 258544,
+        "attended": 6,
+        "top_percentage": 32.24,
+        "success": true
+      },
+      {
+        "username": "anushka0601",
+        "rating": 1536,
+        "global_rank": 277285,
+        "attended": 9,
+        "top_percentage": 34.56,
+        "success": true
+      },
+      {
+        "username": "Absguy",
+        "rating": 1526,
+        "global_rank": 295608,
+        "attended": 5,
+        "top_percentage": 36.83,
+        "success": true
+      },
+      {
+        "username": "teja_r",
+        "rating": 1517,
+        "global_rank": 312675,
+        "attended": 4,
+        "top_percentage": 38.93,
+        "success": true
+      },
+      {
+        "username": "vishnu1502",
+        "rating": 1511,
+        "global_rank": 326782,
+        "attended": 1,
+        "top_percentage": 40.67,
+        "success": true
+      },
+      {
+        "username": "U4AIE23165",
+        "rating": 1500,
+        "global_rank": 351831,
+        "attended": 1,
+        "top_percentage": 43.76,
+        "success": true
+      },
+      {
+        "username": "U4AIE23015",
+        "rating": 1480,
+        "global_rank": 408285,
+        "attended": 1,
+        "top_percentage": 50.71,
+        "success": true
+      },
+      {
+        "username": "Ajith-204",
+        "rating": 1474,
+        "global_rank": 425570,
+        "attended": 8,
+        "top_percentage": 52.83,
+        "success": true
+      },
+      {
+        "username": "GaliRahul",
+        "rating": 1469,
+        "global_rank": 439083,
+        "attended": 9,
+        "top_percentage": 54.49,
+        "success": true
+      },
+      {
+        "username": "bhavanaharshan_23211",
+        "rating": 1449,
+        "global_rank": 508090,
+        "attended": 13,
+        "top_percentage": 62.93,
+        "success": true
+      },
+      {
+        "username": "sneha_23260",
+        "rating": 1441,
+        "global_rank": 534310,
+        "attended": 7,
+        "top_percentage": 66.13,
+        "success": true
+      },
+      {
+        "username": "aleena_s",
+        "rating": 1414,
+        "global_rank": 634814,
+        "attended": 11,
+        "top_percentage": 78.4,
+        "success": true
+      },
+      {
+        "username": "keerthana942005",
+        "rating": 1414,
+        "global_rank": 633456,
+        "attended": 1,
+        "top_percentage": 78.27,
+        "success": true
+      },
+      {
+        "username": "sid_possibly",
+        "rating": 1399,
+        "global_rank": 696696,
+        "attended": 13,
+        "top_percentage": 85.89,
+        "success": true
+      },
+      {
+        "username": "gouthammohanraj",
+        "rating": 1394,
+        "global_rank": 704070,
+        "attended": 11,
+        "top_percentage": 86.79,
+        "success": true
+      },
+      {
+        "username": "AgrajK",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23035",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23127",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23132",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "lokpradeepb",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "4bh7n4v",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23117",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "NIKILPRASANNA",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "cafty2006",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "kreswar126",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23061",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "teja_bulusu",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "chaos4peace",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Kurt_Sony",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "nakulvs",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Vani-Sugovind-S-R",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "NVenkateswaraRao",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "vasudev25",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "7-Pavan-7",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "AyyappaReddy_L",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "akdswordguy",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Rishika_Prabhu",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Meenakshimanoj123",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Samridhi23251",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "hridesh_mg",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "nbharathvl9",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Sailesh23271",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Tejaswini_64",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23131",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23146",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "JACOB_ISAAC",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "neemavinod",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "sathvik9105",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "saisamay086",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Reshma2612",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "riduvarshini_rs",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "advythvaman06",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23051",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "AbhijithKrish",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Swami_007",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "qs3hMvuAFD",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "haripriyar1601",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SRSK2718",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Atmakrishna_K_Raghavan",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "bhaskaraveerendranadh",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23111",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Saiprasadreddy-27",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23047",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "123xoxo",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "vighneshb04",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "darkkieee",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23063",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "revathivinod",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Atif717",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23038",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "a_bhi_9",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23107",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "sheron-59",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "adarshs05",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "heshaja_23265",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "ardrama",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23140",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "pooja_23242",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Sra_aN",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "sai_charan_gontla",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "atharvanair04",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Tanmay_AMSCU4CSE23223",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "ravindrenshivanand",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "marvelpokemaster",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "gqiZ1OeDkF",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23005",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SK005",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SREYAS_S_SANKAR",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Yadhu_Vipin",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "L11C1F3R",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "davidshibu5",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "meghna2049",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "MeghaPrasanth",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "RUSHIKESH_AM_SC_U4CSE23241",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "PRANAV2005ola",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Kartheek_mudi",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Rakshann",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "sujith_matam",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Adithya_Varma",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "jenicabsarasam",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "arjunrajesh59",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "therahu1rajan",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SreehariM",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "manogna_chowdary",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Aadarsh_P_P",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "pavithranair1616",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "jaifin777",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "manojeati",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Sanithya_23327",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Dhanusrireddy",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "navaneeth_0041",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "NAshrith",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "AnaswaraSyam",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "revanthkunche1206",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SahithSiddarth_23217",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "VarunChaitanya",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "pravallika1130",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "akshayvelugati",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Dattanand-23023",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "nikhilsai550000",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "AshrithV",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "u4aie23044",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "BHAMA_M_NAMBOODIRI",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Mounish_Mou",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23055",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "adwaiths2k5",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "MeeraEugil",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-16T13:18:49.587947",
+    "data": [
+      {
+        "username": "SREEVISAKH_A",
+        "rating": 1659,
+        "global_rank": 130520,
+        "attended": 7,
+        "top_percentage": 16.38,
+        "success": true
+      },
+      {
+        "username": "U4AIE23135",
+        "rating": 1625,
+        "global_rank": 159382,
+        "attended": 2,
+        "top_percentage": 19.96,
+        "success": true
+      },
+      {
+        "username": "Sai_Tharun29",
+        "rating": 1586,
+        "global_rank": 200972,
+        "attended": 6,
+        "top_percentage": 25.12,
+        "success": true
+      },
+      {
+        "username": "MSR_2005",
+        "rating": 1564,
+        "global_rank": 230882,
+        "attended": 8,
+        "top_percentage": 28.83,
+        "success": true
+      },
+      {
+        "username": "raghushubi",
+        "rating": 1547,
+        "global_rank": 257486,
+        "attended": 9,
+        "top_percentage": 32.11,
+        "success": true
+      },
+      {
+        "username": "parvathyv",
+        "rating": 1546,
+        "global_rank": 258544,
+        "attended": 6,
+        "top_percentage": 32.24,
+        "success": true
+      },
+      {
+        "username": "anushka0601",
+        "rating": 1536,
+        "global_rank": 277285,
+        "attended": 9,
+        "top_percentage": 34.56,
+        "success": true
+      },
+      {
+        "username": "Absguy",
+        "rating": 1526,
+        "global_rank": 295608,
+        "attended": 5,
+        "top_percentage": 36.83,
+        "success": true
+      },
+      {
+        "username": "teja_r",
+        "rating": 1517,
+        "global_rank": 312675,
+        "attended": 4,
+        "top_percentage": 38.93,
+        "success": true
+      },
+      {
+        "username": "vishnu1502",
+        "rating": 1511,
+        "global_rank": 326782,
+        "attended": 1,
+        "top_percentage": 40.67,
+        "success": true
+      },
+      {
+        "username": "U4AIE23165",
+        "rating": 1500,
+        "global_rank": 351831,
+        "attended": 1,
+        "top_percentage": 43.76,
+        "success": true
+      },
+      {
+        "username": "U4AIE23015",
+        "rating": 1480,
+        "global_rank": 408285,
+        "attended": 1,
+        "top_percentage": 50.71,
+        "success": true
+      },
+      {
+        "username": "Ajith-204",
+        "rating": 1474,
+        "global_rank": 425570,
+        "attended": 8,
+        "top_percentage": 52.83,
+        "success": true
+      },
+      {
+        "username": "GaliRahul",
+        "rating": 1469,
+        "global_rank": 439083,
+        "attended": 9,
+        "top_percentage": 54.49,
+        "success": true
+      },
+      {
+        "username": "bhavanaharshan_23211",
+        "rating": 1449,
+        "global_rank": 508090,
+        "attended": 13,
+        "top_percentage": 62.93,
+        "success": true
+      },
+      {
+        "username": "sneha_23260",
+        "rating": 1441,
+        "global_rank": 534310,
+        "attended": 7,
+        "top_percentage": 66.13,
+        "success": true
+      },
+      {
+        "username": "aleena_s",
+        "rating": 1414,
+        "global_rank": 634814,
+        "attended": 11,
+        "top_percentage": 78.4,
+        "success": true
+      },
+      {
+        "username": "keerthana942005",
+        "rating": 1414,
+        "global_rank": 633456,
+        "attended": 1,
+        "top_percentage": 78.27,
+        "success": true
+      },
+      {
+        "username": "sid_possibly",
+        "rating": 1399,
+        "global_rank": 696696,
+        "attended": 13,
+        "top_percentage": 85.89,
+        "success": true
+      },
+      {
+        "username": "gouthammohanraj",
+        "rating": 1394,
+        "global_rank": 704070,
+        "attended": 11,
+        "top_percentage": 86.79,
+        "success": true
+      },
+      {
+        "username": "AgrajK",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23035",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23127",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23132",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "lokpradeepb",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "4bh7n4v",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23117",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "NIKILPRASANNA",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "cafty2006",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "kreswar126",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "teja_bulusu",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23061",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "chaos4peace",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Kurt_Sony",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Vani-Sugovind-S-R",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "nakulvs",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "vasudev25",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "NVenkateswaraRao",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "7-Pavan-7",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "akdswordguy",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "AyyappaReddy_L",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Rishika_Prabhu",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Meenakshimanoj123",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Samridhi23251",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "hridesh_mg",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "nbharathvl9",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Sailesh23271",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Tejaswini_64",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23146",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "JACOB_ISAAC",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23131",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "neemavinod",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "sathvik9105",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "saisamay086",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Reshma2612",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "riduvarshini_rs",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "advythvaman06",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23051",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "AbhijithKrish",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Swami_007",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "qs3hMvuAFD",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "haripriyar1601",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SRSK2718",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Atmakrishna_K_Raghavan",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23111",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "bhaskaraveerendranadh",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Saiprasadreddy-27",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23047",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "123xoxo",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "vighneshb04",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "darkkieee",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23063",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "revathivinod",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Atif717",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23038",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "a_bhi_9",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23107",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "sheron-59",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "adarshs05",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "heshaja_23265",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "ardrama",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23140",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "pooja_23242",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Sra_aN",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "atharvanair04",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "sai_charan_gontla",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Tanmay_AMSCU4CSE23223",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "ravindrenshivanand",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "marvelpokemaster",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "gqiZ1OeDkF",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23005",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SK005",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SREYAS_S_SANKAR",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Yadhu_Vipin",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "davidshibu5",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "L11C1F3R",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "meghna2049",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "MeghaPrasanth",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "RUSHIKESH_AM_SC_U4CSE23241",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "PRANAV2005ola",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Rakshann",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Kartheek_mudi",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "sujith_matam",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "jenicabsarasam",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Adithya_Varma",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "arjunrajesh59",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "therahu1rajan",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SreehariM",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "manogna_chowdary",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Aadarsh_P_P",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "pavithranair1616",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "jaifin777",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Sanithya_23327",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "manojeati",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Dhanusrireddy",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "navaneeth_0041",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "NAshrith",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "AnaswaraSyam",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "revanthkunche1206",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SahithSiddarth_23217",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "VarunChaitanya",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "pravallika1130",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "akshayvelugati",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Dattanand-23023",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "nikhilsai550000",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "AshrithV",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "u4aie23044",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "BHAMA_M_NAMBOODIRI",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Mounish_Mou",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23055",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "adwaiths2k5",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "MeeraEugil",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-16T13:20:13.069174",
+    "data": [
+      {
+        "username": "SREEVISAKH_A",
+        "rating": 1659,
+        "global_rank": 130520,
+        "attended": 7,
+        "top_percentage": 16.38,
+        "success": true
+      },
+      {
+        "username": "U4AIE23135",
+        "rating": 1625,
+        "global_rank": 159382,
+        "attended": 2,
+        "top_percentage": 19.96,
+        "success": true
+      },
+      {
+        "username": "Sai_Tharun29",
+        "rating": 1586,
+        "global_rank": 200972,
+        "attended": 6,
+        "top_percentage": 25.12,
+        "success": true
+      },
+      {
+        "username": "MSR_2005",
+        "rating": 1564,
+        "global_rank": 230882,
+        "attended": 8,
+        "top_percentage": 28.83,
+        "success": true
+      },
+      {
+        "username": "raghushubi",
+        "rating": 1547,
+        "global_rank": 257486,
+        "attended": 9,
+        "top_percentage": 32.11,
+        "success": true
+      },
+      {
+        "username": "parvathyv",
+        "rating": 1546,
+        "global_rank": 258544,
+        "attended": 6,
+        "top_percentage": 32.24,
+        "success": true
+      },
+      {
+        "username": "anushka0601",
+        "rating": 1536,
+        "global_rank": 277285,
+        "attended": 9,
+        "top_percentage": 34.56,
+        "success": true
+      },
+      {
+        "username": "Absguy",
+        "rating": 1526,
+        "global_rank": 295608,
+        "attended": 5,
+        "top_percentage": 36.83,
+        "success": true
+      },
+      {
+        "username": "teja_r",
+        "rating": 1517,
+        "global_rank": 312675,
+        "attended": 4,
+        "top_percentage": 38.93,
+        "success": true
+      },
+      {
+        "username": "vishnu1502",
+        "rating": 1511,
+        "global_rank": 326782,
+        "attended": 1,
+        "top_percentage": 40.67,
+        "success": true
+      },
+      {
+        "username": "U4AIE23165",
+        "rating": 1500,
+        "global_rank": 351831,
+        "attended": 1,
+        "top_percentage": 43.76,
+        "success": true
+      },
+      {
+        "username": "U4AIE23015",
+        "rating": 1480,
+        "global_rank": 408285,
+        "attended": 1,
+        "top_percentage": 50.71,
+        "success": true
+      },
+      {
+        "username": "Ajith-204",
+        "rating": 1474,
+        "global_rank": 425570,
+        "attended": 8,
+        "top_percentage": 52.83,
+        "success": true
+      },
+      {
+        "username": "GaliRahul",
+        "rating": 1469,
+        "global_rank": 439083,
+        "attended": 9,
+        "top_percentage": 54.49,
+        "success": true
+      },
+      {
+        "username": "bhavanaharshan_23211",
+        "rating": 1449,
+        "global_rank": 508090,
+        "attended": 13,
+        "top_percentage": 62.93,
+        "success": true
+      },
+      {
+        "username": "sneha_23260",
+        "rating": 1441,
+        "global_rank": 534310,
+        "attended": 7,
+        "top_percentage": 66.13,
+        "success": true
+      },
+      {
+        "username": "aleena_s",
+        "rating": 1414,
+        "global_rank": 634814,
+        "attended": 11,
+        "top_percentage": 78.4,
+        "success": true
+      },
+      {
+        "username": "keerthana942005",
+        "rating": 1414,
+        "global_rank": 633456,
+        "attended": 1,
+        "top_percentage": 78.27,
+        "success": true
+      },
+      {
+        "username": "sid_possibly",
+        "rating": 1399,
+        "global_rank": 696696,
+        "attended": 13,
+        "top_percentage": 85.89,
+        "success": true
+      },
+      {
+        "username": "gouthammohanraj",
+        "rating": 1394,
+        "global_rank": 704070,
+        "attended": 11,
+        "top_percentage": 86.79,
+        "success": true
+      },
+      {
+        "username": "AgrajK",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23035",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23127",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23132",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "lokpradeepb",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "4bh7n4v",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23117",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "NIKILPRASANNA",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "cafty2006",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "kreswar126",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23061",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "chaos4peace",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "teja_bulusu",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "nakulvs",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Vani-Sugovind-S-R",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Kurt_Sony",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "NVenkateswaraRao",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "vasudev25",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "7-Pavan-7",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "AyyappaReddy_L",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "akdswordguy",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Rishika_Prabhu",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Meenakshimanoj123",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Samridhi23251",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "hridesh_mg",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "nbharathvl9",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Sailesh23271",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Tejaswini_64",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23146",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23131",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "JACOB_ISAAC",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "neemavinod",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "sathvik9105",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "saisamay086",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Reshma2612",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "riduvarshini_rs",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "advythvaman06",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23051",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Swami_007",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "AbhijithKrish",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "qs3hMvuAFD",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "haripriyar1601",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SRSK2718",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Atmakrishna_K_Raghavan",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "bhaskaraveerendranadh",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23111",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Saiprasadreddy-27",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23047",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "123xoxo",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "vighneshb04",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "darkkieee",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23063",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "revathivinod",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Atif717",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23038",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "a_bhi_9",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23107",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "sheron-59",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "adarshs05",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "heshaja_23265",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "ardrama",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23140",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "pooja_23242",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Sra_aN",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "atharvanair04",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "sai_charan_gontla",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Tanmay_AMSCU4CSE23223",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "ravindrenshivanand",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "marvelpokemaster",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "gqiZ1OeDkF",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23005",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SK005",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SREYAS_S_SANKAR",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Yadhu_Vipin",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "L11C1F3R",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "davidshibu5",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "meghna2049",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "MeghaPrasanth",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "RUSHIKESH_AM_SC_U4CSE23241",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "PRANAV2005ola",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Kartheek_mudi",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Rakshann",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "sujith_matam",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "jenicabsarasam",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Adithya_Varma",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "therahu1rajan",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "arjunrajesh59",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SreehariM",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "manogna_chowdary",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "pavithranair1616",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Aadarsh_P_P",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "jaifin777",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Sanithya_23327",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "manojeati",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Dhanusrireddy",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "navaneeth_0041",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "NAshrith",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "AnaswaraSyam",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "revanthkunche1206",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SahithSiddarth_23217",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "VarunChaitanya",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "pravallika1130",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "akshayvelugati",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Dattanand-23023",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "nikhilsai550000",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "AshrithV",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "u4aie23044",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "BHAMA_M_NAMBOODIRI",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Mounish_Mou",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23055",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "adwaiths2k5",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "MeeraEugil",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-16T18:14:21.566477",
+    "data": [
+      {
+        "username": "U4AIE23111",
+        "name": "DEVANANDA T C",
+        "roll_number": "AM.SC.U4AIE23111",
+        "rating": 1754,
+        "global_rank": 76608,
+        "attended": 1,
+        "top_percentage": 9.67,
+        "success": true
+      },
+      {
+        "username": "U4AIE23131",
+        "name": "MUHAMMED HASHIR R",
+        "roll_number": "AM.SC.U4AIE23131",
+        "rating": 1624,
+        "global_rank": 160591,
+        "attended": 1,
+        "top_percentage": 20.11,
+        "success": true
+      },
+      {
+        "username": "vighneshb04",
+        "name": "VIGHNESH B",
+        "roll_number": "AM.SC.U4CSE23269",
+        "rating": 1584,
+        "global_rank": 204323,
+        "attended": 4,
+        "top_percentage": 25.53,
+        "success": true
+      },
+      {
+        "username": "U4AIE23063",
+        "name": "VELAMALA PAVAN KRISHNA",
+        "roll_number": "AM.SC.U4AIE23063",
+        "rating": 1578,
+        "global_rank": 211643,
+        "attended": 2,
+        "top_percentage": 26.44,
+        "success": true
+      },
+      {
+        "username": "advythvaman06",
+        "name": "AKALANKAM ADVYTH VAMAN",
+        "roll_number": "AM.SC.U4CSE23304",
+        "rating": 1551,
+        "global_rank": 251762,
+        "attended": 1,
+        "top_percentage": 31.4,
+        "success": true
+      },
+      {
+        "username": "saisamay086",
+        "name": "SILLA SAI SAMAY",
+        "roll_number": "AM.SC.U4CSE23153",
+        "rating": 1547,
+        "global_rank": 257423,
+        "attended": 9,
+        "top_percentage": 32.11,
+        "success": true
+      },
+      {
+        "username": "sathvik9105",
+        "name": "PASUVULA SATHVIK",
+        "roll_number": "AM.SC.U4CSE23064",
+        "rating": 1508,
+        "global_rank": 333271,
+        "attended": 9,
+        "top_percentage": 41.47,
+        "success": true
+      },
+      {
+        "username": "bhaskaraveerendranadh",
+        "name": "MANDAPATI BHASKARA VEERENDRANADH",
+        "roll_number": "AM.SC.U4CSE23133",
+        "rating": 1493,
+        "global_rank": 371991,
+        "attended": 11,
+        "top_percentage": 46.24,
+        "success": true
+      },
+      {
+        "username": "Sailesh23271",
+        "name": "Yampati Sai Sailesh Reddy",
+        "roll_number": "AM.SC.U4CSE23271",
+        "rating": 1492,
+        "global_rank": 374041,
+        "attended": 9,
+        "top_percentage": 46.49,
+        "success": true
+      },
+      {
+        "username": "haripriyar1601",
+        "name": "HARIPRIYA  A R",
+        "roll_number": "AM.SC.U4AIE23036",
+        "rating": 1492,
+        "global_rank": 374737,
+        "attended": 1,
+        "top_percentage": 46.58,
+        "success": true
+      },
+      {
+        "username": "U4AIE23061",
+        "name": "ULLIGADDA SHASHANK",
+        "roll_number": "AM.SC.U4AIE23061",
+        "rating": 1490,
+        "global_rank": 379874,
+        "attended": 1,
+        "top_percentage": 47.21,
+        "success": true
+      },
+      {
+        "username": "Reshma2612",
+        "name": "SAMBANGI RESHMA SRI",
+        "roll_number": "AM.SC.U4CSE23250",
+        "rating": 1483,
+        "global_rank": 399215,
+        "attended": 8,
+        "top_percentage": 49.59,
+        "success": true
+      },
+      {
+        "username": "nakulvs",
+        "name": "NAKUL V SUNIL",
+        "roll_number": "AM.SC.U4AIE23048",
+        "rating": 1470,
+        "global_rank": 435660,
+        "attended": 1,
+        "top_percentage": 54.07,
+        "success": true
+      },
+      {
+        "username": "darkkieee",
+        "name": "Balasankar Mohan",
+        "roll_number": "am.sc.u4cse23016",
+        "rating": 1455,
+        "global_rank": 487369,
+        "attended": 4,
+        "top_percentage": 60.4,
+        "success": true
+      },
+      {
+        "username": "Tejaswini_64",
+        "name": "GARLAPATI TEJASWINI",
+        "roll_number": "AM.SC.U4CSE23219",
+        "rating": 1454,
+        "global_rank": 488610,
+        "attended": 8,
+        "top_percentage": 60.55,
+        "success": true
+      },
+      {
+        "username": "Samridhi23251",
+        "name": "SAMRIDHI SINGH",
+        "roll_number": "AM.SC.U4CSE23251",
+        "rating": 1433,
+        "global_rank": 563882,
+        "attended": 1,
+        "top_percentage": 69.75,
+        "success": true
+      },
+      {
+        "username": "Saiprasadreddy-27",
+        "name": "KANCHAGARI BELAGAL SAI PRASAD REDDY",
+        "roll_number": "AM.SC.U4CSE23227",
+        "rating": 1432,
+        "global_rank": 565646,
+        "attended": 10,
+        "top_percentage": 69.96,
+        "success": true
+      },
+      {
+        "username": "7-Pavan-7",
+        "name": "PAVAN S",
+        "roll_number": "AM.SC.U4AIE23143",
+        "rating": 1414,
+        "global_rank": 633111,
+        "attended": 1,
+        "top_percentage": 78.27,
+        "success": true
+      },
+      {
+        "username": "AyyappaReddy_L",
+        "name": "LOKASANI AYYAPPA REDDY",
+        "roll_number": "AM.SC.U4AIE23046",
+        "rating": 1414,
+        "global_rank": 633199,
+        "attended": 1,
+        "top_percentage": 78.27,
+        "success": true
+      },
+      {
+        "username": "SRSK2718",
+        "name": "S SREYAS",
+        "roll_number": "AM.AI.U4AID23019",
+        "rating": 1414,
+        "global_rank": 633491,
+        "attended": 1,
+        "top_percentage": 78.27,
+        "success": true
+      },
+      {
+        "username": "123xoxo",
+        "name": "R KIRAN",
+        "roll_number": "AM.AI.U4AID23053",
+        "rating": 1414,
+        "global_rank": 633526,
+        "attended": 1,
+        "top_percentage": 78.27,
+        "success": true
+      },
+      {
+        "username": "revathivinod",
+        "name": "REVATHI V",
+        "roll_number": "AM.SC.U4CSE23145",
+        "rating": 1410,
+        "global_rank": 673403,
+        "attended": 1,
+        "top_percentage": 83.06,
+        "success": true
+      },
+      {
+        "username": "Atmakrishna_K_Raghavan",
+        "name": "ATMAKRISHNA K RAGHAVAN",
+        "roll_number": "AM.SC.U4CSE23015",
+        "rating": 1401,
+        "global_rank": 692698,
+        "attended": 12,
+        "top_percentage": 85.4,
+        "success": true
+      },
+      {
+        "username": "nbharathvl9",
+        "name": "NALLABALLI BHARATH",
+        "roll_number": "AM.SC.U4CSE23337",
+        "rating": 1398,
+        "global_rank": 697285,
+        "attended": 2,
+        "top_percentage": 85.96,
+        "success": true
+      },
+      {
+        "username": "Rishika_Prabhu",
+        "name": "RISHIKA V PRABHU",
+        "roll_number": "AM.SC.U4CSE23245",
+        "rating": 1390,
+        "global_rank": 709567,
+        "attended": 12,
+        "top_percentage": 87.46,
+        "success": true
+      },
+      {
+        "username": "akdswordguy",
+        "name": "D ADITYA KIRAN",
+        "roll_number": "AM.SC.U4CSE23215",
+        "rating": 1390,
+        "global_rank": 709528,
+        "attended": 11,
+        "top_percentage": 87.45,
+        "success": true
+      },
+      {
+        "username": "NVenkateswaraRao",
+        "name": "NAGARURU VENKATESWARA RAO",
+        "roll_number": "AM.SC.U4CSE23054",
+        "rating": 1389,
+        "global_rank": 711566,
+        "attended": 12,
+        "top_percentage": 87.7,
+        "success": true
+      },
+      {
+        "username": "Swami_007",
+        "name": "SWAMINATHAN A",
+        "roll_number": "AM.SC.U4CSE23161",
+        "rating": 1384,
+        "global_rank": 717712,
+        "attended": 3,
+        "top_percentage": 88.45,
+        "success": true
+      },
+      {
+        "username": "teja_bulusu",
+        "name": "BULUSU VENKATA SAI TEJA",
+        "roll_number": "AM.SC.U4CSE23312",
+        "rating": 1383,
+        "global_rank": 719592,
+        "attended": 8,
+        "top_percentage": 88.68,
+        "success": true
+      },
+      {
+        "username": "Meenakshimanoj123",
+        "name": "MEENAKSHI MANOJ",
+        "roll_number": "AM.SC.U4CSE23052",
+        "rating": 1382,
+        "global_rank": 721754,
+        "attended": 9,
+        "top_percentage": 88.94,
+        "success": true
+      },
+      {
+        "username": "neemavinod",
+        "name": "NEEMA VINOD",
+        "roll_number": "AM.SC.U4CSE23238",
+        "rating": 1375,
+        "global_rank": 730035,
+        "attended": 12,
+        "top_percentage": 89.95,
+        "success": true
+      },
+      {
+        "username": "Vani-Sugovind-S-R",
+        "name": "VANI SUGOVIND S R",
+        "roll_number": "AM.SC.U4CSE23266",
+        "rating": 1371,
+        "global_rank": 736229,
+        "attended": 16,
+        "top_percentage": 90.7,
+        "success": true
+      },
+      {
+        "username": "vasudev25",
+        "name": "VASUDEV .B",
+        "roll_number": "AM.SC.U4CSE23267",
+        "rating": 1346,
+        "global_rank": 765144,
+        "attended": 10,
+        "top_percentage": 94.2,
+        "success": true
+      },
+      {
+        "username": "Atif717",
+        "name": "SHAIK MOHAMMED ATIF",
+        "roll_number": "AM.SC.U4CSE23354",
+        "rating": 1338,
+        "global_rank": 771006,
+        "attended": 13,
+        "top_percentage": 94.91,
+        "success": true
+      },
+      {
+        "username": "JACOB_ISAAC",
+        "name": "JACOB ISAAC",
+        "roll_number": "AM.SC.U4CSE23123",
+        "rating": 1259,
+        "global_rank": 801455,
+        "attended": 13,
+        "top_percentage": 98.6,
+        "success": true
+      },
+      {
+        "username": "chaos4peace",
+        "name": "Varun V",
+        "roll_number": "AM.SC.U4AIE23062",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "Kurt_Sony",
+        "name": "KURT SONY REBELLO",
+        "roll_number": "AM.AI.U4AID23046",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "hridesh_mg",
+        "name": "HRIDESH MATTAKKATHARA GOPAKUMAR MG",
+        "roll_number": "AM.SC.U4CSE23322",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23146",
+        "name": "RISHIKA RAJ SUKUMARAN",
+        "roll_number": "AM.SC.U4AIE23146",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "riduvarshini_rs",
+        "name": "RIDUVARSHINI R S",
+        "roll_number": "AM.SC.U4CSE23146",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23051",
+        "name": "PULAVARTHI VISHNU CHAITANYA",
+        "roll_number": "AM.SC.U4AIE23051",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "AbhijithKrish",
+        "name": "E ABHIJITH KRISHNA",
+        "roll_number": "AM.AI.U4AID23037",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "qs3hMvuAFD",
+        "name": "GOURI K",
+        "roll_number": "AM.SC.U4CSE23030",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23047",
+        "name": "N MUJEEB RAHMAN",
+        "roll_number": "AM.SC.U4AIE23047",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0,
+        "success": true
+      },
+      {
+        "username": "U4AIE23038",
+        "name": "JOHAN RAJESH",
+        "roll_number": "AM.SC.U4AIE23038",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "a_bhi_9",
+        "name": "ABHINAV THAIVALAPPIL",
+        "roll_number": "AM.SC.U4CSE23103",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23107",
+        "name": "ALLURI AKHIL VARMA",
+        "roll_number": "AM.SC.U4AIE23107",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "adarshs05",
+        "name": "ADARSH SASIKUMAR",
+        "roll_number": "AM.SC.U4CYS23004",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "sheron-59",
+        "name": "SHERON GEORGE",
+        "roll_number": "AM.AI.U4AID23059",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "heshaja_23265",
+        "name": "TOTTALI HESHAJA",
+        "roll_number": "AM.SC.U4CSE23265",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23140",
+        "name": "P ARYA",
+        "roll_number": "AM.SC.U4AIE23140",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Sra_aN",
+        "name": "SRAVAN SUDEEP",
+        "roll_number": "am.sc.u4aie23153",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "atharvanair04",
+        "name": "ATHARVA UNNIKRISHNAN NAIR",
+        "roll_number": "AM.SC.U4CSE23109",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "pooja_23242",
+        "name": "POOJA SATHYAN",
+        "roll_number": "AM.SC.U4CSE23242",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "sai_charan_gontla",
+        "name": "GONTLA SAI CHARAN",
+        "roll_number": "AM.SC.U4CSE23320",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "ardrama",
+        "name": "ARDRA M A",
+        "roll_number": "AM.SC.U4AIE23021",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Tanmay_AMSCU4CSE23223",
+        "name": "JAYANTHI TANMAY",
+        "roll_number": "AM.SC.U4CSE23223",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "ravindrenshivanand",
+        "name": "SHIVANAND R",
+        "roll_number": "AM.SC.U4CSE23355",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "marvelpokemaster",
+        "name": "ADARSH BINU",
+        "roll_number": "AM.SC.U4CSE23018",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "gqiZ1OeDkF",
+        "name": "PARASURAMAN VINOTH KANNA MANISH ADITHYA",
+        "roll_number": "AM.SC.U4CSE23140",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23005",
+        "name": "ABHINAV NAIR",
+        "roll_number": "AM.SC.U4AIE23005",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SK005",
+        "name": "SAI KISHEN K M",
+        "roll_number": "AM.SC.U4CSE23248",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SREYAS_S_SANKAR",
+        "name": "SREYAS S SANKAR",
+        "roll_number": "AM.SC.U4CSE23157",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "L11C1F3R",
+        "name": "SOURAV SASIRAJ",
+        "roll_number": "AM.SC.U4CSE23261",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Yadhu_Vipin",
+        "name": "YADHU VIPIN MADHILAKATH MADATHIL",
+        "roll_number": "AM.SC.U4CSE23270",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "davidshibu5",
+        "name": "DAVID SHIBU",
+        "roll_number": "AM.SC.U4CSE23116",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "meghna2049",
+        "name": "MEGHNA BINOD",
+        "roll_number": "AM.SC.U4CSE23135",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "MeghaPrasanth",
+        "name": "MEGHA PRASANTH",
+        "roll_number": "AM.SC.U4CSE23334",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "RUSHIKESH_AM_SC_U4CSE23241",
+        "name": "PENDLY RUSHIKESH",
+        "roll_number": "AM.SC.U4CSE23241",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "PRANAV2005ola",
+        "name": "PRANAV P NAIR",
+        "roll_number": "AM.SC.U4CSE23172",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Kartheek_mudi",
+        "name": "MUDI VENKATA KARTHEEK",
+        "roll_number": "AM.SC.U4CSE23335",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Rakshann",
+        "name": "VELAMURI SIVA SAI SUBRAHMANYAH RAKSHANN",
+        "roll_number": "AM.SC.U4CSE23268",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "sujith_matam",
+        "name": "SUJITH MATAM",
+        "roll_number": "AM.SC.U4CSE23159",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "jenicabsarasam",
+        "name": "JENICA B SARASAM",
+        "roll_number": "AM.SC.U4CSE23323",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Adithya_Varma",
+        "name": "ADITHYA VARMA KUSAMPUDI",
+        "roll_number": "AM.SC.U4AIE23008",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "arjunrajesh59",
+        "name": "ARJUN RAJESH",
+        "roll_number": "AM.SC.U4CSE23208",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "therahu1rajan",
+        "name": "RAHUL RAJAN SABASTIAN",
+        "roll_number": "AM.SC.U4CSE23069",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SreehariM",
+        "name": "SREEHARI M",
+        "roll_number": "AM.SC.U4CSE23156",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Aadarsh_P_P",
+        "name": "AADARSH P P",
+        "roll_number": "AM.SC.U4CSE23101",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "manogna_chowdary",
+        "name": "DARIPINENI MANOGNA",
+        "roll_number": "AM.SC.U4CSE23022",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "pavithranair1616",
+        "name": "PAVITHRA NAIR",
+        "roll_number": "AM.SC.U4CSE23141t",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "jaifin777",
+        "name": "JAIFIN B ALOOR",
+        "roll_number": "AM.SC.U4CYS23022",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Sanithya_23327",
+        "name": "KANKANALA SANITHYA REDDY",
+        "roll_number": "AM.SC.U4CSE23327",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "manojeati",
+        "name": "EATI MANOJ",
+        "roll_number": "AM.SC.U4CSE23317",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Dhanusrireddy",
+        "name": "THATIKONDA DHANUSRI REDDY",
+        "roll_number": "AM.SC.U4CSE23163",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "navaneeth_0041",
+        "name": "NAVANEETH B",
+        "roll_number": "AM.SC.U4CSE23138",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "AnaswaraSyam",
+        "name": "ANASWARA SYAM",
+        "roll_number": "AM.SC.U4CSE23107",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "NAshrith",
+        "name": "NEMALI ASHRITH REDDY",
+        "roll_number": "AM.AI.U4AID23014",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "revanthkunche1206",
+        "name": "KUNCHE REVANTH SATYA SAI RAGHUVEER",
+        "roll_number": "AM.SC.U4CSE23329",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SahithSiddarth_23217",
+        "name": "EARLAPALLY SAHITH SIDDARTH",
+        "roll_number": "AM.SC.U4CSE23217",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "VarunChaitanya",
+        "name": "NALLAMILLI BHANU VARUN CHAITANYA REDDY",
+        "roll_number": "AM.SC.U4CSE23055",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "pravallika1130",
+        "name": "BOYIGADDA PRAVALLIKA",
+        "roll_number": "AM.SC.U4CSE23212",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "akshayvelugati",
+        "name": "AKSHAY REDDY VELUGATI",
+        "roll_number": "AM.AI.U4AID23062",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Dattanand-23023",
+        "name": "DATTANAND U D",
+        "roll_number": "AM.SC.U4CSE23023",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "nikhilsai550000",
+        "name": "NIKHIL SAI GOORI",
+        "roll_number": "AM.AI.U4AID23051",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "AshrithV",
+        "name": "WOONNA VENKAT ASHRITH",
+        "roll_number": "AM.SC.U4AIE23162",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "u4aie23044",
+        "name": "LEKSHMI S NAIR",
+        "roll_number": "AM.SC.U4AIE23044",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "BHAMA_M_NAMBOODIRI",
+        "name": "BHAMA M NAMBOODIRI",
+        "roll_number": "AM.SC.U4CSE23111",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Mounish_Mou",
+        "name": "Senisetty Mounish",
+        "roll_number": "AM.AI.U4AID23058",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23055",
+        "name": "SANJULA SREEKUMAR",
+        "roll_number": "AM.SC.U4AIE23055",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "adwaiths2k5",
+        "name": "ADWAITH S MENON",
+        "roll_number": "AM.AI.U4AID23027",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "MeeraEugil",
+        "name": "MEERA M EUGIL",
+        "roll_number": "AM.AI.U4AID23048",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "AgrajK",
+        "name": "AGRAJ K",
+        "roll_number": "AM.SC.U4AIE23105",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "teja_r",
+        "name": "RAMIDI TEJA",
+        "roll_number": "AM.SC.U4AIE23053",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "anushka0601",
+        "name": "Anushka Das",
+        "roll_number": "AM.SC.U4CSE23108",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23035",
+        "name": "HARINANDANA K A",
+        "roll_number": "AM.SC.U4AIE23035",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "aleena_s",
+        "name": "ALEENA SEBASTIAN",
+        "roll_number": "AM.SC.U4CSE23205",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "vishnu1502",
+        "name": "P VISHNU VARDHAN BABU",
+        "roll_number": "AM.SC.U4CYS23032",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "keerthana942005",
+        "name": "KEERTHANA NELLYERI",
+        "roll_number": "AM.SC.U4AIE23120",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "bhavanaharshan_23211",
+        "name": "BHAVANA P H",
+        "roll_number": "AM.SC.U4CSE23211",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Ajith-204",
+        "name": "AJITH ASHOK",
+        "roll_number": "AM.SC.U4CSE23204",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "sneha_23260",
+        "name": "SNEHA V NAMBIAR",
+        "roll_number": "AM.SC.U4CSE23260",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23165",
+        "name": "VRINDA S NAIR",
+        "roll_number": "AM.SC.U4AIE23165",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "gouthammohanraj",
+        "name": "GAUTHAM MOHANRAJ",
+        "roll_number": "AM.SC.U4CSE23319",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23127",
+        "name": "MANDADAPU SRI LAKSHMI SNIGDHA",
+        "roll_number": "AM.SC.U4AIE23127",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "SREEVISAKH_A",
+        "name": "SREEVISAKH A-[AM.SC.U4CSE231",
+        "roll_number": "AM.SC.U4CSE23173",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "GaliRahul",
+        "name": "GALI RAHUL",
+        "roll_number": "AM.SC.U4CSE23318",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23015",
+        "name": "AMALA P ANSALEM",
+        "roll_number": "AM.SC.U4AIE23015",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Sai_Tharun29",
+        "name": "SAI THARUN REDDY NALLALA",
+        "roll_number": "AM.SC.U4CSE23249",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23132",
+        "name": "MUHAMMED RASHID R",
+        "roll_number": "AM.SC.U4AIE23132",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "sid_possibly",
+        "name": "SIDHARTH R KRISHNA",
+        "roll_number": "AM.SC.U4CSE23258",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "lokpradeepb",
+        "name": "BHUTHALA LOKPRADEEP",
+        "roll_number": "AM.SC.U4CYS23018",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "Absguy",
+        "name": "ABHINAV G NAIR",
+        "roll_number": "AM.SC.U4CSE23005",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "4bh7n4v",
+        "name": "PASUNURI ABHINAV",
+        "roll_number": "AM.SC.U4CYS23033",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23117",
+        "name": "KUNDURU LAASYA CHAITANYA REDDY",
+        "roll_number": "AM.SC.U4AIE23117",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "parvathyv",
+        "name": "PARVATHY V",
+        "roll_number": "AM.SC.U4CSE23063",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "NIKILPRASANNA",
+        "name": "M V N PRASANNA",
+        "roll_number": "AM.AI.U4AID23047",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "MSR_2005",
+        "name": "M S RAAGHAVAN",
+        "roll_number": "AM.SC.U4CSE23330",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "cafty2006",
+        "name": "ARISETTY BHAVIK",
+        "roll_number": "AM.SC.U4AIE23023",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "kreswar126",
+        "name": "KATARU REDDY ESWAR",
+        "roll_number": "AM.SC.U4CSE23126",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "raghushubi",
+        "name": "RAGHU SHUBHANGI",
+        "roll_number": "AM.SC.U4CSE23068",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      },
+      {
+        "username": "U4AIE23135",
+        "name": "NALLAPANENI VAIBHAV",
+        "roll_number": "AM.SC.U4AIE23135",
+        "success": false,
+        "error": "Failed",
+        "rating": 0,
+        "global_rank": 0,
+        "attended": 0,
+        "top_percentage": 0.0
+      }
+    ]
+  }
+]
