@@ -36,3 +36,9 @@ Thumbs.db
 # Project specific
 debug_csv.py
 *.log
+leetcode_bot.db
+temp_uploads/
+.env
+*.csv
+*.xlsx
+history.json

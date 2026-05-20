@@ -1,0 +1,37 @@
+Columns found:
+0: ID
+1: Start time
+2: Completion time
+3: Email
+4: Name
+5: Last modified time
+6: Roll number (eg, AM.SC.U4CSE23018)
+7: Name (as it appears in AUMS)
+8: Programme you are enrolled in
+9: Leetcode handle/userid (if you don't have, create one and give here)
+10: Codechef handle/userid (if you don't have, create one and give here)
+11: Codeforces handle/userid (if you don't have, create one and give here)
+12: Atcoder handle/userid (if you don't have, create one and give here)
+13: Hackerrank handle/userid (if you don't have, create one and give here)
+14: Stopstalk handle/userid (if you don't have, create one and give here)
+15: CList handle/userid (if you don't have, create one and give here)
+
+
+First row sample:
+ID: 1
+Start time: 2026-01-10 10:01:37
+Completion time: 2026-01-10 10:14:00
+Email: am.sc.u4cse23312@am.students.amrita.edu
+Name: BULUSU VENKATA SAI TEJA
+Last modified time: nan
+Roll number (eg, AM.SC.U4CSE23018): AM.SC.U4CSE23312
+Name (as it appears in AUMS): BULUSU VENKATA SAI TEJA
+Programme you are enrolled in: CSE
+Leetcode handle/userid (if you don't have, create one and give here): teja_bulusu
+Codechef handle/userid (if you don't have, create one and give here): tejabulusu4
+Codeforces handle/userid (if you don't have, create one and give here): tejabulusu4
+Atcoder handle/userid (if you don't have, create one and give here): tejabulusu4
+Hackerrank handle/userid (if you don't have, create one and give here): tejabulusu4
+Stopstalk handle/userid (if you don't have, create one and give here): Stopstalk is stopped.
+CList handle/userid (if you don't have, create one and give here)
+: tejabulusu4

@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, send_file
 import requests
 import concurrent.futures
 import time
@@ -232,6 +232,20 @@ def upload_file():
         results, stats = process_usernames(usernames, student_metadata)
         
         return render_template('index.html', students=results, stats=stats, current_input=f"File: {file.filename}")
+
+
+@app.route('/download')
+def download_csv():
+    """Download the latest CSV results."""
+    try:
+        return send_file(
+            CSV_EXPORT_FILE,
+            mimetype='text/csv',
+            as_attachment=True,
+            download_name='leetcode_ratings.csv'
+        )
+    except FileNotFoundError:
+        return render_template('index.html', error="No data available to download. Please process a file first.")
 
 
 if __name__ == "__main__":

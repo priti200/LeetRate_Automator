@@ -1,106 +1,125 @@
-# LeetCode Contest Tracker
+# LeetCode Rating Tracker — Telegram Bot
 
-Automated system to track and visualize LeetCode contest ratings for a group of students.
+Fully automated Telegram bot that fetches LeetCode contest ratings for students and posts a weekly leaderboard every Monday.
 
 ## Features
-- 📊 **Automated Tracking**: Fetches contest ratings, global ranks, and participation stats.
-- 👤 **Student Metadata**: Tracks student names and roll numbers from CSV file.
-- 📈 **Beautiful Dashboard**: Generates a responsive HTML leaderboard with dark mode.
-- 💾 **Data Export**: Exports data to CSV for Excel analysis.
-- 🕒 **History Tracking**: Keeps a JSON history of all runs.
-- ⏰ **Weekly Automation**: Automatic weekly updates with two scheduling options.
+- 🤖 **Telegram Bot Interface**: Control everything from Telegram
+- 📁 **CSV/XLSX Upload**: Send a file via chat to add students
+- 🚀 **One-Command Fetch**: `/fetch` to pull ratings for all students
+- 🏆 **Auto Leaderboard**: Formatted leaderboard with medals + CSV download
+- 🕒 **Weekly Auto-Post**: Every Monday at 10:00 AM (configurable)
+- 💾 **SQLite Storage**: Persistent student data and fetch history
+- 📊 **Stats**: Average rating, top performer, success rate
 
-## Installation
+## Setup
 
-1. **Prerequisites**: Python 3.7+
-2. **Setup**:
-   ```bash
-   pip install -r requirements.txt
-   ```
+### 1. Create a Telegram Bot
+1. Message `@BotFather` on Telegram
+2. Send `/newbot`
+3. Follow prompts to name your bot
+4. Copy the **BOT_TOKEN**
 
-## Usage
+### 2. Get Your Chat ID
+1. Send any message to your bot
+2. Visit: `https://api.telegram.org/bot<BOT_TOKEN>/getUpdates`
+3. Find `"chat": {"id": -100xxxxxxx}` — that number is your **CHAT_ID**
 
-### Manual Tracking (Web Interface)
+### 3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
 
-1. **Start the Interface**:
-   ```bash
-   python leetcode_tracker.py
-   ```
+### 4. Set Environment Variables
+```bash
+export BOT_TOKEN="your_token_here"
+export CHAT_ID="your_chat_id_here"
+export SCHEDULE_DAY="monday"
+export SCHEDULE_TIME="10:00"
+```
 
-2. **Open Dashboard**:
-   - The script will start a local web server (typically `http://127.0.0.1:5000`).
-   - Open this URL in your web browser.
+### 5. Run the Bot
+```bash
+python bot.py
+```
 
-3. **Track Students**:
-   - **CSV File Upload**:
-     - Upload your `Leetcode-handles.csv` file (must contain Name, Roll Number, and LeetCode handle columns).
-     - The system will extract student names, roll numbers, and usernames automatically.
-     - Click "Process File".
-      
-   - The system will fetch live data and display the leaderboard with student names and roll numbers.
-   - Results are automatically saved to `leetcode_data.csv` with all metadata.
+## Bot Commands
 
-## Automation
+| Command | Description |
+|---|---|
+| `/start` | Welcome message + command list |
+| `/upload` | Send a CSV/XLSX file to add students |
+| `/fetch` | Manually fetch ratings for all active students |
+| `/leaderboard` | View current leaderboard + download CSV |
+| `/stats` | View fetch statistics |
+| `/list` | View all registered students |
+| `/add <handle>` | Add a single student by LeetCode username |
+| `/remove <handle>` | Remove a student from tracking |
+| `/schedule` | Show current auto-fetch schedule |
+| `/help` | Show all commands |
 
-You have two options for weekly automatic updates:
+## File Upload Format
 
-### Option 1: Windows Task Scheduler (Recommended)
-
-1. **Run the setup script**:
-   - Right-click `setup_task_scheduler.bat` and select "Run as Administrator"
-   - The script will create a scheduled task to run every Monday at 10:00 AM
-
-2. **Customize schedule** (optional):
-   - Edit `setup_task_scheduler.bat` before running
-   - Change `SCHEDULE_DAY` (MONDAY, TUESDAY, etc.)
-   - Change `SCHEDULE_TIME` (24-hour format, e.g., "14:30")
-
-3. **Verify**:
-   - Open Windows Task Scheduler
-   - Look for "LeetCodeRatingTracker" task
-
-### Option 2: Python Background Scheduler
-
-1. **Configure the scheduler**:
-   - Edit `scheduler.py`
-   - Set `SCHEDULE_DAY` (e.g., "monday", "friday")
-   - Set `SCHEDULE_TIME` (e.g., "10:00", "18:30")
-
-2. **Run the scheduler**:
-   ```bash
-   python scheduler.py
-   ```
-   - Leave this running in the background
-   - It will automatically run weekly at the configured time
-   - Logs are saved to `scheduler.log`
-
-3. **Test immediately**:
-   ```bash
-   python scheduler.py --run-now
-   ```
-
-## CSV File Format
-
-Your CSV file should have the following columns (in order):
+Your CSV/XLSX file should have these columns (in order):
 1. ID
 2. Start time
 3. Completion time
 4. Email
 5. **Name** (student name)
 6. Last modified time
-7. **Roll number** (e.g., AM.SC.U4CSE23018)
+7. **Roll number**
 8. Name (as it appears in AUMS)
 9. Programme
-10. **Leetcode handle/userid** (LeetCode username or URL)
+10. **Leetcode handle/userid** (username or full URL)
 
-## Output Files
+## Deploy to Render (Free)
 
-- **`leetcode_data.csv`**: Latest ratings with Name, Roll Number, Username, Rating, Global Rank, Contests Attended, Top Percentage
-- **`history.json`**: Complete historical data of all runs
-- **`scheduler.log`**: Automation execution logs (when using scheduler)
+### 1. Push to GitHub
+```bash
+git add .
+git commit -m "Telegram bot for LeetCode ratings"
+git push
+```
+
+### 2. Deploy on Render
+1. Go to https://render.com → New Web Service
+2. Connect your GitHub repo
+3. Settings:
+   - **Build Command**: `pip install -r requirements.txt`
+   - **Start Command**: `python bot.py`
+   - **Instance Type**: Free
+4. Add Environment Variables:
+   - `BOT_TOKEN` = your bot token
+   - `CHAT_ID` = your chat ID
+   - `SCHEDULE_DAY` = monday
+   - `SCHEDULE_TIME` = 10:00
+
+### 3. Keep It Alive (Important for Free Tier)
+Render free tier spins down after 15 minutes of inactivity. Use **UptimeRobot** (free):
+1. Go to https://uptimerobot.com
+2. Create a monitor for your Render URL
+3. Set interval to 5 minutes
+4. This keeps the bot running 24/7
+
+## Architecture
+
+```
+bot.py (Flask + Telegram Bot + APScheduler)
+├── database.py   (SQLite: students + fetch_history)
+├── fetcher.py    (LeetCode GraphQL API with retry/backoff)
+├── parser.py     (CSV/XLSX file parser)
+├── formatter.py  (Telegram message formatting)
+└── config.py     (Environment variables)
+```
+
+## Database
+
+SQLite (`leetcode_bot.db`) stores:
+- **students**: name, roll_number, leetcode_username, active status
+- **fetch_history**: rating, global_rank, contests, timestamp per fetch
 
 ## Troubleshooting
-- **API Errors**: The system uses a public third-party API. If it fails, wait a few minutes and try again.
-- **Missing Data**: Ensure usernames are correct and profiles are public.
-- **Scheduler not running**: Check `scheduler.log` for error messages.
 
+- **Bot not responding**: Check `BOT_TOKEN` is correct
+- **Messages not sent to chat**: Verify `CHAT_ID` matches your group/channel
+- **Rate limits (429)**: Bot handles this automatically with exponential backoff
+- **Render spins down**: Set up UptimeRobot to ping every 5 minutes

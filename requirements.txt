@@ -1,4 +1,8 @@
 requests
 Flask
-schedule
 gunicorn
+python-telegram-bot
+apscheduler
+pandas
+openpyxl
+python-dotenv

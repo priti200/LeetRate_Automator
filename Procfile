@@ -1,1 +1,1 @@
-web: gunicorn leetcode_tracker:app
+web: python bot.py
