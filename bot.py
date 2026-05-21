@@ -280,10 +280,15 @@ def run_bot():
     application.add_handler(CommandHandler("schedule", schedule_command))
     application.add_handler(MessageHandler(filters.Document.ALL, handle_file))
 
+    async def error_handler(update, context):
+        logger.error(f"Error: {context.error}")
+
+    application.add_error_handler(error_handler)
+
     setup_scheduler(application)
 
     logger.info("Bot started...")
-    application.run_polling(drop_pending_updates=True)
+    application.run_polling(poll_interval=2.0)
 
 @app.route("/")
 def health():
