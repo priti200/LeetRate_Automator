@@ -21,61 +21,69 @@ logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
 
-async def run_fetch_internal(context: ContextTypes.DEFAULT_TYPE, chat_id: str, is_auto: bool = False):
-    students = get_active_students()
-    if not students:
-        await context.bot.send_message(chat_id=chat_id, text="📭 No students registered.")
+fetch_in_progress = False
+
+async def do_fetch(context: ContextTypes.DEFAULT_TYPE, chat_id: str, label: str = "Fetch"):
+    global fetch_in_progress
+    if fetch_in_progress:
+        await context.bot.send_message(chat_id=chat_id, text="⏳ A fetch is already in progress.")
         return
 
-    if is_auto:
-        await context.bot.send_message(chat_id=chat_id, text=f"🕒 *Weekly Auto-Fetch*\nFetching ratings for {len(students)} students...", parse_mode="Markdown")
-    else:
-        await context.bot.send_message(chat_id=chat_id, text=f"🚀 Starting fetch for {len(students)} students...")
+    fetch_in_progress = True
+    try:
+        students = get_active_students()
+        if not students:
+            await context.bot.send_message(chat_id=chat_id, text="📭 No students registered.")
+            return
 
-    fetcher = LeetCodeFetcher()
-    results = []
-    total = len(students)
+        total = len(students)
+        await context.bot.send_message(chat_id=chat_id, text=f"🚀 {label}: Fetching ratings for {total} students...")
 
-    for idx, student in enumerate(students):
-        data = fetcher.fetch_single(student["leetcode_username"])
-        data["student_id"] = student["id"]
-        data["name"] = student["name"]
-        data["roll_number"] = student["roll_number"]
-        data["leetcode_username"] = student["leetcode_username"]
-        results.append(data)
-        save_fetch_result(student["id"], data["rating"], data["global_rank"], data["contests_attended"], data["top_pct"], data["success"])
+        fetcher = LeetCodeFetcher()
+        results = []
 
-        if (idx + 1) % 10 == 0 or idx + 1 == total:
-            try:
-                await context.bot.send_message(chat_id=chat_id, text=f"⏳ {idx + 1}/{total} processed")
-            except Exception:
-                pass
+        for idx, student in enumerate(students):
+            data = fetcher.fetch_single(student["leetcode_username"])
+            data["student_id"] = student["id"]
+            data["name"] = student["name"]
+            data["roll_number"] = student["roll_number"]
+            data["leetcode_username"] = student["leetcode_username"]
+            results.append(data)
+            save_fetch_result(student["id"], data["rating"], data["global_rank"], data["contests_attended"], data["top_pct"], data["success"])
 
-    leaderboard = format_leaderboard(results)
-    await context.bot.send_message(chat_id=chat_id, text=leaderboard, parse_mode="Markdown")
+            if (idx + 1) % 50 == 0 or idx + 1 == total:
+                try:
+                    await context.bot.send_message(chat_id=chat_id, text=f"⏳ {idx + 1}/{total} processed")
+                except Exception:
+                    pass
 
-    csv_path = os.path.join(TEMP_DIR, "leaderboard.csv")
-    generate_csv_file(results, csv_path)
-    with open(csv_path, "rb") as f:
-        await context.bot.send_document(chat_id=chat_id, document=f, filename="leaderboard.csv")
+        leaderboard = format_leaderboard(results)
+        await context.bot.send_message(chat_id=chat_id, text=leaderboard, parse_mode="Markdown")
 
-    successful = sum(1 for r in results if r["success"])
-    await context.bot.send_message(chat_id=chat_id, text=f"✅ {'Weekly fetch' if is_auto else 'Fetch'} complete! {successful}/{total} fetched successfully.")
+        csv_path = os.path.join(TEMP_DIR, "leaderboard.csv")
+        generate_csv_file(results, csv_path)
+        with open(csv_path, "rb") as f:
+            await context.bot.send_document(chat_id=chat_id, document=f, filename="leaderboard.csv")
+
+        successful = sum(1 for r in results if r["success"])
+        await context.bot.send_message(chat_id=chat_id, text=f"✅ {label} complete! {successful}/{total} fetched successfully.")
+        logger.info(f"{label} complete: {successful}/{total}")
+    finally:
+        fetch_in_progress = False
 
 async def weekly_fetch_job(context: ContextTypes.DEFAULT_TYPE):
     logger.info("Running scheduled weekly auto-fetch")
     if not CHAT_ID:
         logger.error("CHAT_ID not set")
         return
-    await run_fetch_internal(context, CHAT_ID, is_auto=True)
+    await do_fetch(context, CHAT_ID, label="Weekly Auto-Fetch")
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     welcome = (
         "👋 *Welcome to LeetCode Rating Tracker!*\n\n"
         "*Commands:*\n"
-        "/upload — Send a CSV/XLSX file to add students\n"
-        "/fetch — Manually fetch ratings for all students\n"
-        "/leaderboard — View current leaderboard\n"
+        "/upload — Send a CSV/XLSX file to add students and fetch ratings\n"
+        "/fetch — Show latest leaderboard and download CSV\n"
         "/stats — View fetch statistics\n"
         "/list — View all registered students\n"
         "/add <handle> — Add a single student\n"
@@ -129,7 +137,7 @@ async def handle_file(update: Update, context: ContextTypes.DEFAULT_TYPE):
     msg += f"⏭️ Duplicates skipped: {dup_count}"
 
     total, active = get_student_count()
-    msg += f"\n\n👥 Total registered: {total} ({active} active)"
+    msg += f"\n👥 Total registered: {total} ({active} active)"
 
     await context.bot.send_message(chat_id=chat_id, text=msg, parse_mode="Markdown")
 
@@ -138,14 +146,10 @@ async def handle_file(update: Update, context: ContextTypes.DEFAULT_TYPE):
     except Exception:
         pass
 
-async def fetch_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    chat_id = update.effective_chat.id
-    if str(chat_id) != str(CHAT_ID):
-        await context.bot.send_message(chat_id=chat_id, text="⛔ Unauthorized.")
-        return
-    await run_fetch_internal(context, chat_id, is_auto=False)
+    await context.bot.send_message(chat_id=chat_id, text="🔎 Now fetching ratings for all students...", parse_mode="Markdown")
+    await do_fetch(context, chat_id, label="📥 File Upload Fetch")
 
-async def leaderboard_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+async def fetch_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     chat_id = update.effective_chat.id
     if str(chat_id) != str(CHAT_ID):
         await context.bot.send_message(chat_id=chat_id, text="⛔ Unauthorized.")
@@ -153,7 +157,7 @@ async def leaderboard_command(update: Update, context: ContextTypes.DEFAULT_TYPE
 
     results = get_latest_results()
     if not results:
-        await context.bot.send_message(chat_id=chat_id, text="📭 No data yet. Use /fetch first.")
+        await context.bot.send_message(chat_id=chat_id, text="📭 No data yet. Upload a file with /upload first.")
         return
 
     msg = format_leaderboard(results)
@@ -175,11 +179,10 @@ async def stats_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     total, active = get_student_count()
 
     if not stats or stats.get("total", 0) == 0:
-        await context.bot.send_message(chat_id=chat_id, text="📭 No fetch data yet. Use /fetch first.")
+        await context.bot.send_message(chat_id=chat_id, text="📭 No fetch data yet. Upload a file first with /upload.")
         return
 
-    msg = format_stats(stats, last_fetch)
-    msg = f"👥 Students: {active} active / {total} total\n\n" + msg
+    msg = f"👥 Students: {active} active / {total} total\n\n" + format_stats(stats, last_fetch)
     await context.bot.send_message(chat_id=chat_id, text=msg, parse_mode="Markdown")
 
 async def list_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -235,16 +238,6 @@ async def schedule_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await context.bot.send_message(chat_id=chat_id, text=f"🕒 Weekly auto-fetch: Every {SCHEDULE_DAY.capitalize()} at {SCHEDULE_TIME}")
 
 def setup_scheduler(application):
-    day_map = {
-        "monday": application.job_queue.run_daily,
-        "tuesday": application.job_queue.run_daily,
-        "wednesday": application.job_queue.run_daily,
-        "thursday": application.job_queue.run_daily,
-        "friday": application.job_queue.run_daily,
-        "saturday": application.job_queue.run_daily,
-        "sunday": application.job_queue.run_daily,
-    }
-
     time_parts = SCHEDULE_TIME.split(":")
     from datetime import time as dt_time
     schedule_time = dt_time(hour=int(time_parts[0]), minute=int(time_parts[1]))
@@ -272,7 +265,6 @@ def run_bot():
     application.add_handler(CommandHandler("start", start))
     application.add_handler(CommandHandler("help", help_command))
     application.add_handler(CommandHandler("fetch", fetch_command))
-    application.add_handler(CommandHandler("leaderboard", leaderboard_command))
     application.add_handler(CommandHandler("stats", stats_command))
     application.add_handler(CommandHandler("list", list_command))
     application.add_handler(CommandHandler("add", add_single))
