@@ -280,7 +280,7 @@ def run_bot():
     setup_scheduler(application)
 
     logger.info("Bot started...")
-    application.run_polling(poll_interval=2.0)
+    application.run_polling(poll_interval=2.0, drop_pending_updates=True)
 
 @app.route("/")
 def health():
